@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on currently learning Software Development in my spare time while taking classes.\
 ✍️ &nbsp;In my free time, I like to play videogames and learn new technologies.\
 💬 &nbsp;Feel free to reach out to me if you have any questions about things that I've made.\
-✉️ &nbsp;You can shoot me an email at `nick@wolff.tech` I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at `nick@wolff.tech` I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp; Current Tech Stack
 
