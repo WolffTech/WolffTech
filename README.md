@@ -26,7 +26,10 @@
 
 <p align="center">
 <a href="https://github.com/WolffTech">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WolffTech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WolffTech&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+<a href="https://github.com/WolffTech">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=WolffTech&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
 </p>
 
