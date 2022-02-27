@@ -38,6 +38,6 @@
 <p align="center">
 <a href="https://wolff.tech"><img src="https://img.shields.io/badge/-wolff.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:nick@wolff.tech"><img src="https://img.shields.io/badge/-nick@wolff.tech-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a herf="@Nick_W0lff"><img src="https://img.shields.io/badge/-@Nick_W0lff-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a herf="@wolfftechs"><img src="https://img.shields.io/badge/-@wolfftechs-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a herf="Discord"><img src="https://img.shields.io/badge/-NickWolff.2609-5663F7?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
